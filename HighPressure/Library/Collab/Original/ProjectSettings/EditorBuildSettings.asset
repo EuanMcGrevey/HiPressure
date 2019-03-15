@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 217164c1556022b4291e2d292901eba0
+  - enabled: 0
+    path: Assets/Scenes/map.unity
+    guid: a09fa7b2d648c48b99a1e9c75221d7cf
+  - enabled: 1
+    path: Assets/Scenes/map.unity
+    guid: a09fa7b2d648c48b99a1e9c75221d7cf
+  - enabled: 1
+    path: Assets/Scenes/instructions.unity
+    guid: 04ef9e06410587a4681b120bbc99c3e0
+  - enabled: 1
+    path: Assets/Scenes/acknowledgements.unity
+    guid: b7e911d1f454d1d4089f540605c1aedc
+  - enabled: 1
+    path: Assets/Scenes/victory.unity
+    guid: e2cad6ed9e1f2f845bbae688ee198352
+  - enabled: 1
+    path: Assets/Scenes/gameover.unity
+    guid: ee13dfc21d346f44e92ca93cfef2a665
+  - enabled: 1
+    path: Assets/Scenes/Boss Fight.unity
+    guid: 2a41e974b890b9049afbe89256087a62
+  - enabled: 0
+    path: Assets/Scenes/victory.unity
+    guid: e2cad6ed9e1f2f845bbae688ee198352
+  - enabled: 0
+    path: Assets/Scenes/gameover.unity
+    guid: ee13dfc21d346f44e92ca93cfef2a665
+  - enabled: 1
+    path: Assets/Scenes/Ending Scene.unity
+    guid: d1d98caa54f43a04e9d12af7dd9cb0a4
+  - enabled: 0
+    path: Assets/Scenes/Boss Fight.unity
+    guid: 2a41e974b890b9049afbe89256087a62
+  m_configObjects: {}
